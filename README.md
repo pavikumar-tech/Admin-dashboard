@@ -1,6 +1,6 @@
 # Admin Dashboard with Charts
 
-![Admin Dashboard Screenshot](https://github.com/Arunking007/Admin-dashboard-with-charts-/assets/123456789/abcd1234)
+
 
 ## Overview
 
